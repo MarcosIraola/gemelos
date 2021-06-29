@@ -1,3 +1,3 @@
-Little simulation for a videoclip. A scientist used his computer simulating using this web.
+Little simulation for a videoclip where a scientist used this 'software'.
 
 https://musing-mayer-e05343.netlify.app/
