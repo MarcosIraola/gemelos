@@ -24,12 +24,15 @@ const IndexPage = () => (
 
     <div className='subtitulo2'>
       <p className='screentext'>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-        natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, 
-        pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In 
-        enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. 
-        Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, 
-        eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra qu
+        29/06/2024 / Reporte incial - Dia 64      <br/>
+            Los procedimientos inciciales dieron resultado y podemos comprender ahora la raiz de la neurosis <br/>
+            y podemos comprender eficazmente como se replica eso en la sinapsis de los individuos, o quizas el individio unico. <br/>
+            Me remito a pensar en los ultimos avances del campo pensando que quizas podamos, los tres juntos, traspasar una mente humana. <br/>
+            La raiz de mi investigacion y por asi decirlo la chispa que la ha encendido se encuentra en Haiti, donde los nativos me instruyeron
+            en la mastica del vudu. <br/>
+            Hemos podido encontrar el nexo entre los muertos y los vivos, entre la mente y lo real. Bautista y Vidal, mi dos sujetos, van a ser 
+            los primeros en cruzar el umbral.<br/>
+          
       </p>
     </div>
 
